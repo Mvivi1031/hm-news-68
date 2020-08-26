@@ -40,5 +40,8 @@
       "vue-cli-service lint",
       "git add"
     ]
+  },
+   "editor.codeActionsOnSave": {
+    "source.fixAll": true
   }
 }
