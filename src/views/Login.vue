@@ -1,7 +1,6 @@
 <template>
     <div>
-        hello word login组件
-        <span class="iconfont iconweixin"></span>
+       <div></div>
     </div>
 </template>
 
