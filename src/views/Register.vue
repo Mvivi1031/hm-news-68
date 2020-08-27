@@ -1,7 +1,6 @@
 <template>
-    <div>
-        hello word 这是非登录组件
-        <span class="iconfont iconweixin"></span>
+    <div >
+    <Hmheader>register</Hmheader>
     </div>
 </template>
 

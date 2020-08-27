@@ -1,7 +1,8 @@
+/* eslint-disable vue/no-parsing-error */
 <template>
-    <div>
-       <div></div>
-    </div>
+<div >
+<Hmheader>login</Hmheader>
+</div>
 </template>
 
 <script>
@@ -9,6 +10,6 @@ export default {
 }
 </script>
 
-<style>
+<style lang="less">
 
 </style>

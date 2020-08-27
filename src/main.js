@@ -7,6 +7,9 @@ import './styles/iconfont.css'
 import Vant from 'vant'
 import 'vant/lib/index.css'
 import 'amfe-flexible'
+import Hmheader from './components/Hmheader.vue'
+// 全局注册组件
+Vue.component('Hmheader', Hmheader)
 Vue.use(Vant)
 Vue.config.productionTip = false
 new Vue({
